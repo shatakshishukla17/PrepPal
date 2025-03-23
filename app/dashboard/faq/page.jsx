@@ -169,9 +169,7 @@ const TeamPage = () => {
               <h3 className="text-lg font-medium text-gray-500 dark:text-gray-400">
                 Add Team Member
               </h3>
-              <p className="mt-2 text-sm text-gray-400 dark:text-gray-500">
-                Click to add another team member to the page
-              </p>
+              
             </div>
           </div>
         </div>
