@@ -12,6 +12,7 @@
 
 ## Interview Page:
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/fffbe49d-785a-4936-831f-66f2b151099f" />
+
 ### In place of the webcam image, your webcam video will be displayed. Similarly, in place of 'Your Answer,' the answer you are speaking will be displayed.
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/1b88cc74-610d-4264-a80e-5ef436df244c" />
 
