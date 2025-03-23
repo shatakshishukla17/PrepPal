@@ -23,6 +23,8 @@
 ## About Page:
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/ae64fe20-638a-494a-b7c4-122a7dbffb94" />
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/2418df93-6815-421e-8399-b629afbb6498" />
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/267a6c8e-eed5-4795-aa19-e0cb33712d94" />
+
 
 
 
