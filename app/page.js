@@ -41,7 +41,7 @@ export default function Home() {
           <div className="flex flex-col items-center">
             <div className="inline-flex items-center px-4 py-2 mb-8 text-sm font-medium text-purple-700 bg-purple-100 border border-purple-200 rounded-full animate-bounce">
               <Sparkles className="w-4 h-4 mr-2 text-purple-500" />
-              <span>NEW!</span>
+              <span>NEW! </span>
               {/* <span className="mx-2">🎉</span> */}
               <span>AI Interview Practice</span>
             </div>
