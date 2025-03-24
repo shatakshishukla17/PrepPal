@@ -58,7 +58,7 @@ export default function Home() {
             
             <p className="max-w-2xl mx-auto mb-10 text-xl text-center text-gray-600">
               Practice with our AI interviewer and get instant feedback to land your dream job! No more interview jitters. 
-              <span className="inline-block ml-2 animate-pulse">👊</span>
+              {/* <span className="inline-block ml-2 animate-pulse"></span> */}
             </p>
             
             <div className="flex flex-wrap justify-center gap-4 mb-16">
@@ -70,7 +70,7 @@ export default function Home() {
                 <button className="relative flex items-center px-8 py-4 text-lg font-medium text-white transition-all bg-purple-600 rounded-lg group-hover:bg-purple-700">
                   <Rocket className="w-5 h-5 mr-2" />
                   Start Practicing 
-                  <span className="ml-2">🚀</span>
+                  {/* <span className="ml-2"></span> */}
                 </button>
               </a>
               
@@ -226,7 +226,7 @@ export default function Home() {
           >
             <Lightbulb className="w-5 h-5 mr-2" />
             Start Your Journey
-            <span className="ml-2">🎯</span>
+            <span className="ml-2"></span>
           </a>
         </div>
       </section>
