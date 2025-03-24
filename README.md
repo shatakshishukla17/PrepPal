@@ -1,3 +1,6 @@
+# PrepPal: AI-Driven Mock Interview Platform with Multimodal Feedback Analysis
+PrepPal is an interactive platform that uses artificial intelligence to help job seekers prepare for interviews. By simulating real interview scenarios, providing personalized feedback, and analyzing your verbal and non-verbal communication, our tool helps you build confidence and improve your performance. Practice with tailored questions based on your desired role, receive instant feedback, and track your progress – all in a safe, private environment that ensures you're fully prepared when the real interview comes.
+
 # Screenshots of Website
 ## Home Page:
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/4ff60564-6870-40e0-91a3-12e2ba544f26" />
