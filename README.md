@@ -20,8 +20,8 @@ PrepPal is an interactive platform that uses artificial intelligence to help job
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/1b88cc74-610d-4264-a80e-5ef436df244c" />
 
 ## Feedback Page:
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/f23244e7-295d-429c-8277-910d4a0c0ba4" />
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/fbc70434-44c3-48a6-8d1a-06d63137e1a5" />
+<img width="960" alt="performance_dashboard" src="https://github.com/user-attachments/assets/0ffd2e3d-5ba2-4f2f-9a87-9dd067541410" />
+<img width="960" alt="detailed_feedback" src="https://github.com/user-attachments/assets/2bbf3cb2-c92c-4a0f-8305-3ad3bcc3bffc" />
 
 ## About Page:
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/ae64fe20-638a-494a-b7c4-122a7dbffb94" />
